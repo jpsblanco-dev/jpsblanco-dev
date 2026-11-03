@@ -18,7 +18,7 @@ My work sits at the intersection of front-end development, WooCommerce, technica
 | Project | What I contributed | Focus |
 | --- | --- | --- |
 | [Outdoor Culture](https://www.outdoorculture.com.au/) | Responsive WordPress implementation, content structures, navigation, calls to action, and SEO improvements | WordPress, ACF, technical SEO |
-| [SuperchargedAI](https://superchargedai.com.au/) | Responsive layouts, reusable sections, content presentation, navigation, and front-end refinements | WordPress, front-end development |
+| [SuperchargedAI](https://superchargedai.com.au/) | Responsive layouts, reusable sections, content presentation, navigation, and front-end refinements | Responsive design, front-end development |
 | [Ultra Supercharge](https://staging.ultrasupercharge.com/) | Reusable Bricks components, mega menu, forms, WooCommerce account and checkout UI, and document-workflow troubleshooting | Bricks, WooCommerce, integrations |
 | [Cana at Silang](https://canaatsilang.com/) | Premium hospitality and events experience with a clear path from discovery to booking | WordPress, responsive UX |
 | [Nolo Silayan](https://nolosilayan.com/) | Personal brand and consultancy website built with a custom WordPress content architecture | WordPress, content architecture |
