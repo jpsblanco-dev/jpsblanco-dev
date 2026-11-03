@@ -30,7 +30,6 @@ My work sits at the intersection of front-end development, WooCommerce, technica
 
 | Project | What I built | Focus |
 | --- | --- | --- |
-| [HeyBright Web Creative](https://github.com/jpsblanco-dev/heybright-web-creative) | Designed and built a complete small-business web studio experience with responsive navigation, service content, FAQs, and inquiry flow | HTML, CSS, JavaScript, SEO |
 | [Zenaya Dental Care](https://github.com/jpsblanco-dev/zenaya-dental-bluegreen) | Created a five-page fictional clinic demo with service discovery, patient guidance, interactive recommendations, and responsive layouts | HTML, CSS, JavaScript, UX |
 | [Small-Business Website Demos](https://github.com/jpsblanco-dev/small-business-web-demos) | Built distinct responsive concepts for a bakeshop, coffee shop, drugstore, hardware store, and pet salon | Front-end development, responsive design |
 
