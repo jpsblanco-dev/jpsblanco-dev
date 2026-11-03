@@ -28,10 +28,31 @@ My work sits at the intersection of front-end development, WooCommerce, technica
 
 ## Portfolio builds
 
-| Project | What I built | Focus |
-| --- | --- | --- |
-| [Zenaya Dental Care](https://github.com/jpsblanco-dev/zenaya-dental-bluegreen) | Created a five-page fictional clinic demo with service discovery, patient guidance, interactive recommendations, and responsive layouts | HTML, CSS, JavaScript, UX |
-| [Small-Business Website Demos](https://github.com/jpsblanco-dev/small-business-web-demos) | Built distinct responsive concepts for a bakeshop, coffee shop, drugstore, hardware store, and pet salon | Front-end development, responsive design |
+### [Zenaya Dental Care](https://github.com/jpsblanco-dev/zenaya-dental-bluegreen)
+
+A five-page fictional dental clinic website designed around calm communication, service discovery, and clear patient journeys.
+
+- **Home:** Welcoming clinic overview, featured services, trust signals, and an interactive smile guide
+- **Services:** Organized preventive, restorative, cosmetic, orthodontic, family, and urgent-care information
+- **About & Team:** Clinic approach, team introduction, and patient-centered care principles
+- **Patient Guide:** Practical visit preparation, expectations, and frequently asked questions
+- **Contact:** Clinic details and an accessible appointment-request experience
+- Responsive navigation, semantic HTML, visible keyboard focus, reduced-motion support, and clear fictional-demo labeling
+
+**Built with:** HTML, CSS, JavaScript, responsive design, accessibility, and UX writing
+
+### [Small-Business Website Demos](https://github.com/jpsblanco-dev/small-business-web-demos)
+
+A collection of five responsive website concepts showing how visual design and customer journeys can adapt to different local-business industries.
+
+- **Bakeshop:** Signature products, brand storytelling, and order-focused calls to action
+- **Coffee shop:** Menu discovery, atmosphere, location, and visit planning
+- **Drugstore:** Health essentials, product categories, and practical store information
+- **Hardware store:** Tools, supplies, product discovery, and project-support messaging
+- **Pet salon:** Grooming services, care-focused presentation, and booking pathways
+- Distinct visual systems, responsive desktop and mobile layouts, reusable base styles, and lightweight shared JavaScript
+
+**Built with:** HTML, CSS, JavaScript, responsive design, reusable components, and industry-focused UX
 
 ## Beyond the page builder
 
