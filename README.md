@@ -28,7 +28,7 @@ My work sits at the intersection of front-end development, WooCommerce, technica
 
 ## Portfolio builds
 
-### [Zenaya Dental Care](https://github.com/jpsblanco-dev/zenaya-dental-bluegreen)
+### [Zenaya Dental Care](https://heybright.online/zenaya-dental-care/)
 
 A five-page fictional dental clinic website designed around calm communication, service discovery, and clear patient journeys.
 
@@ -41,18 +41,16 @@ A five-page fictional dental clinic website designed around calm communication, 
 
 **Built with:** HTML, CSS, JavaScript, responsive design, accessibility, and UX writing
 
-### [Small-Business Website Demos](https://github.com/jpsblanco-dev/small-business-web-demos)
+### Live demos
 
-A collection of five responsive website concepts showing how visual design and customer journeys can adapt to different local-business industries.
-
-- **Bakeshop:** Signature products, brand storytelling, and order-focused calls to action
-- **Coffee shop:** Menu discovery, atmosphere, location, and visit planning
-- **Drugstore:** Health essentials, product categories, and practical store information
-- **Hardware store:** Tools, supplies, product discovery, and project-support messaging
-- **Pet salon:** Grooming services, care-focused presentation, and booking pathways
-- Distinct visual systems, responsive desktop and mobile layouts, reusable base styles, and lightweight shared JavaScript
-
-**Built with:** HTML, CSS, JavaScript, responsive design, reusable components, and industry-focused UX
+| Project | Experience |
+| --- | --- |
+| [Clinic Website Demo](https://heybright.online/clinic-demo/) | Responsive healthcare website with service discovery and clear patient pathways |
+| [Coffee Shop](https://heybright.online/zenaya-business-demos/coffee/) | Menu discovery, atmosphere, location, and visit planning |
+| [Pet Salon](https://heybright.online/zenaya-business-demos/pet-salon/) | Grooming services, care-focused presentation, and booking pathways |
+| [Bakeshop](https://heybright.online/zenaya-business-demos/bakeshop/) | Signature products, brand storytelling, and order-focused calls to action |
+| [Drugstore](https://heybright.online/zenaya-business-demos/drugstore/) | Health essentials, product categories, and practical store information |
+| [Hardware Store](https://heybright.online/zenaya-business-demos/hardware/) | Tools, supplies, product discovery, and project-support messaging |
 
 ## Beyond the page builder
 
